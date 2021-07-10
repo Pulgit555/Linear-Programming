@@ -5,7 +5,7 @@
 > + Archit Jain (2019101053)
 > + Pulkit Gupta (2019101078)
 
-This part of assignment covers the concept of the Linear programming for solving MDPs.
+It covers the concept of the Linear programming for solving MDPs.
 
 ## How to run
 
